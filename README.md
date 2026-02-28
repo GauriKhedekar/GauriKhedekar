@@ -12,7 +12,7 @@ I am a third-year engineering student focused on Artificial Intelligence, automa
 
 I enjoy solving real-world problems by integrating APIs, building intelligent workflows, and designing structured systems.
 
-- 🧠 60+ DSA problems solved (LeetCode)
+- 🧠 90+ DSA problems solved (LeetCode)
 - 🏆 Ranked 4th in First Year among 600+ students
 - 🎓 LILA Poonawalla Foundation Scholar
 
