@@ -61,7 +61,7 @@ End-to-end AI-driven automation system built during a hackathon.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/GauriKhedekar  
-- LinkedIn: https://linkedin.com/in/GauriKhedekar  
+- LinkedIn: https://www.linkedin.com/in/gauri-khedekar-129a1b27b/  
 - Email: gkhedekar949@gmail.com  
 
 ---
