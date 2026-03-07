@@ -53,7 +53,7 @@ End-to-end AI-driven automation system built during a hackathon.
 
 ## 💻 Coding Practice
 
-- Solved 60+ problems on LeetCode  
+- Solved 90+ problems on LeetCode  
 - Focus Areas: Arrays, Strings, Recursion, Trees  
 
 ---
