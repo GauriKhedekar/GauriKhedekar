@@ -15,6 +15,7 @@ I enjoy solving real-world problems by integrating APIs, building intelligent wo
 - 🧠 90+ DSA problems solved (LeetCode)
 - 🏆 Ranked 4th in First Year among 600+ students
 - 🎓 LILA Poonawalla Foundation Scholar
+- Global hackathon winner at Automate me if you can hackathon in which arount 4000+ prticipants across 155+ countries had participated.
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GauriKhedekar&show_icons=true)
 
@@ -39,7 +40,7 @@ Data Structures | OOP | API Integration | Automation | File Handling
 ## 📌 Featured Project
 
 ### 🔹 AI Productivity Assistant  
-End-to-end AI-driven automation system built during a hackathon.
+End-to-end AI-driven automation system built during a hackathon.(Global Hackathon winning project - Automate me if you can hackathon in which around 4000+participants across 15+ countries had participated)
 
 - Automated email classification using Gmail API  
 - Built trusted-sender recovery mechanism for spam filtering  
