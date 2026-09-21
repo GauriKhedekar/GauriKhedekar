@@ -17,7 +17,7 @@ I enjoy solving real-world problems by integrating APIs, building intelligent wo
 - 🎓 LILA Poonawalla Foundation Scholar
 - Global hackathon winner at Automate me if you can hackathon in which arount 4000+ prticipants across 15+ countries had participated.
 
-[![Gauri's GitHub stats](https://vercel.app)](https://github.com)
+[![Gauri's GitHub stats](https://vercel.app)](https://GauriKhedekar.com)
 
 ---
 
