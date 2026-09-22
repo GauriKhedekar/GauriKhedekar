@@ -27,13 +27,13 @@ I enjoy solving real-world problems by integrating APIs, building intelligent wo
 Java | Python  
 
 **Technologies & APIs**  
-Gmail API | Google Calendar API | REST APIs | OAuth 2.0 | JSON | Ollama (Local LLM - phi3)
+LangChain | LangGraph | RAG Pipeline | PageIndex | Deep Agents | LLM Deployment | LLM Guardrails | LLM Evaluation | Basic MCP Implementation
 
 **Tools**  
 Git | GitHub | VS Code | IntelliJ IDEA | Google Cloud Console  
 
 **Core Concepts**  
-Data Structures | OOP | API Integration | Automation | File Handling  
+Data Structures | OOP | API Integration | Automation | File Handling | OS  
 
 ---
 
