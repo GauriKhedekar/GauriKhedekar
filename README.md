@@ -17,9 +17,7 @@ I enjoy solving real-world problems by integrating APIs, building intelligent wo
 - 🎓 LILA Poonawalla Foundation Scholar
 - Global hackathon winner at Automate me if you can hackathon in which arount 4000+ prticipants across 15+ countries had participated.
 
-<a href="https://github.com">
-  <img src="https://shion.dev" alt="Gauri's GitHub stats" />
-</a>
+[![Gauri's GitHub stats](https://shion.dev)](https://github.com)
 
 ---
 
